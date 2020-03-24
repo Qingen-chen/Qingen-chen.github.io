@@ -3,11 +3,11 @@ body {
         color: white;
     }
 
+body {
+	font-family: arial;
+	background-color: rgb(185,179,175);}
 h1 {
-        font-family: 'center';
-        color: orange;
-        font-size: 50px;
-    }
+	color: rgb(255,255,255);}
 
 a {
         color: navy;
@@ -19,13 +19,3 @@ a {
 a:hover{
       color: green;
     }
-
-p.important {
-
-border-style: solid;
-
-border-width: 5px;
-
-border-color: purple;
-
-}
