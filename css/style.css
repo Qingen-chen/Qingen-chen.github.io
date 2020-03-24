@@ -4,7 +4,7 @@ body {
     }
 
 h1 {
-        font-family: 'Notable', sans-serif;
+        font-family: 'Notable', sans-serif, center;
         color: orange;
         font-size: 50px;
     }
@@ -19,8 +19,3 @@ a {
 a:hover{
       color: green;
     }
-
-#para1 {
-  text-align: center;
-  color: orange;
-}
