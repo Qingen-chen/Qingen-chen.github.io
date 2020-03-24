@@ -19,3 +19,8 @@ a {
 a:hover{
       color: green;
     }
+
+#para1 {
+  text-align: center;
+  color: orange;
+}
